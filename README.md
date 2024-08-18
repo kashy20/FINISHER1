@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FINISHER KUMALO](https://github.com/Emmkash20/FINISHER) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FINISHER](https://github.com/Emmkash20/FINISHER) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
