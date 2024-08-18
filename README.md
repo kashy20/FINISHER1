@@ -1,4 +1,4 @@
-# VENOM-2
+# FINISHER KUMALO
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FINISHER KUMALO](https://github.com/Emmkash20/FINISHER) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
